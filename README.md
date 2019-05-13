@@ -1,7 +1,11 @@
 # notwork-module (with c#)
 <br>
-1. 앱 소개
-IOCP를 이용한 server-client 채팅시스템입니다.  (App for chatting using by Iocp)
+1. 소개
+1.1)BufferManager : 소켓 사용을 위해 버퍼를 할당하거나 해제를 할때 사용하기 위한 모듈.
+1.2)CListener : 통신(bind ,connect 등)을 위해 사용하기 위한 모듈.
+1.3)CNetworkservice : 처음 서버가 작동할때 소켓 이벤트핸들러 할당 등 작업 수행.
+1.4)SocketAsyncEventArgsPool : 비동기 작업을 위한 소켓async를 미리 생성해서 관리
+1.5)CPacket : 통신 프로토콜을 정하고 바디 사이즈를 정해서 관리.
 
 ## 2. 적용 라이센스
 사용한 라이선스 : MIT Licence(https://github.com/utsavoza/photo-editor)<br>
