@@ -1,11 +1,11 @@
 # notwork-module (with c#)
 <br>
-1. 소개
-1.1)BufferManager : 소켓 사용을 위해 버퍼를 할당하거나 해제를 할때 사용하기 위한 모듈.
-1.2)CListener : 통신(bind ,connect 등)을 위해 사용하기 위한 모듈.
-1.3)CNetworkservice : 처음 서버가 작동할때 소켓 이벤트핸들러 할당 등 작업 수행.
-1.4)SocketAsyncEventArgsPool : 비동기 작업을 위한 소켓async를 미리 생성해서 관리
-1.5)CPacket : 통신 프로토콜을 정하고 바디 사이즈를 정해서 관리.
+1. 소개<br>
+1.1)BufferManager : 소켓 사용을 위해 버퍼를 할당하거나 해제를 할때 사용하기 위한 모듈.<br>
+1.2)CListener : 통신(bind ,connect 등)을 위해 사용하기 위한 모듈.<br>
+1.3)CNetworkservice : 처음 서버가 작동할때 소켓 이벤트핸들러 할당 등 작업 수행.<br>
+1.4)SocketAsyncEventArgsPool : 비동기 작업을 위한 소켓async를 미리 생성해서 관리<br>
+1.5)CPacket : 통신 프로토콜을 정하고 바디 사이즈를 정해서 관리.<br>
 
 ## 2. 적용 라이센스
 사용한 라이선스 : MIT Licence(https://github.com/utsavoza/photo-editor)<br>
