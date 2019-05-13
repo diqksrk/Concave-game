@@ -1,0 +1,5 @@
+C:\Users\diqks\Source\Repos\MyNetworkModule\obj\Debug\MyNetworkModule.csproj.CoreCompileInputs.cache
+C:\Users\diqks\Source\Repos\MyNetworkModule\bin\Debug\MyNetworkModule.dll
+C:\Users\diqks\Source\Repos\MyNetworkModule\bin\Debug\MyNetworkModule.pdb
+C:\Users\diqks\Source\Repos\MyNetworkModule\obj\Debug\MyNetworkModule.dll
+C:\Users\diqks\Source\Repos\MyNetworkModule\obj\Debug\MyNetworkModule.pdb
